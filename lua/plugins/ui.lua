@@ -18,4 +18,9 @@ return {
       },
     },
   },
+  -- disabled tab
+  {
+    "akinsho/bufferline.nvim",
+    enabled = false,
+  },
 }
